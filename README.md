@@ -5,6 +5,13 @@
 ## Challenges
 
 1. [print-name](print-name)
+
+Variables and Data Types
+
 2. [area-of-rectangle](area-of-rectangle)
 3. [enum-type](enum-type)
+
+Operators
+
 4. [mins-to-years-and-days](mins-to-years-and-days)
+5. [sizeof-data-types](sizeof-data-types)
