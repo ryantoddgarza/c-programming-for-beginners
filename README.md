@@ -15,3 +15,7 @@ Operators
 
 4. [mins-to-years-and-days](mins-to-years-and-days)
 5. [sizeof-data-types](sizeof-data-types)
+
+Control Flow
+
+6. [calculate-weekly-pay](calculate-weekly-pay)
