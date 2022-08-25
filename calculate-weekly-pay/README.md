@@ -1,5 +1,7 @@
 # calculate-weekly-pay
 
+Create a C program that calculates your weekly pay.
+
 The program should ask the user to enter the number of hours worked in a week via the keyboard and display as output the gross pay, taxes, and net pay.
 
 The following assumptions should be made:
