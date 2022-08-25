@@ -19,3 +19,4 @@ Operators
 Control Flow
 
 6. [calculate-weekly-pay](calculate-weekly-pay)
+7. [guess-the-number](guess-the-number)
