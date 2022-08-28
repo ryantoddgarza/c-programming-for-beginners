@@ -20,3 +20,7 @@ Control Flow
 
 6. [calculate-weekly-pay](calculate-weekly-pay)
 7. [guess-the-number](guess-the-number)
+
+Arrays
+
+8. [primes](primes)
