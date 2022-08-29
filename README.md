@@ -24,3 +24,4 @@ Control Flow
 Arrays
 
 8. [primes](primes)
+9. [weather](weather)
