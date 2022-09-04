@@ -25,3 +25,7 @@ Arrays
 
 8. [primes](primes)
 9. [weather](weather)
+
+Functions
+
+10. [writing-functions](writing-functions)
