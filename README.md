@@ -29,3 +29,4 @@ Arrays
 Functions
 
 10. [writing-functions](writing-functions)
+11. [tic-tac-toe](tic-tac-toe)
