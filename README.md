@@ -30,3 +30,7 @@ Functions
 
 10. [writing-functions](writing-functions)
 11. [tic-tac-toe](tic-tac-toe)
+
+Pointers
+
+12. [pointer-basics](pointer-basics)
