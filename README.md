@@ -34,3 +34,4 @@ Functions
 Pointers
 
 12. [pointer-basics](pointer-basics)
+13. [pointer-arithmetic](pointer-arithmetic)
