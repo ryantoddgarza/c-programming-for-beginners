@@ -36,3 +36,4 @@ Pointers
 12. [pointer-basics](pointer-basics)
 13. [pointer-arithmetic](pointer-arithmetic)
 14. [pass-by-reference](pass-by-reference)
+15. [dynamic-memory-allocation](dynamic-memory-allocation)
