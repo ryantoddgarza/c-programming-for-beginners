@@ -41,3 +41,4 @@ Pointers
 Structures
 
 16. [basic-structure](basic-structure)
+17. [structure-pointers](structure-pointers)
