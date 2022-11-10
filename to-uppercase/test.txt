@@ -1,0 +1,1 @@
+Create a program that converts all characters in a file to uppercase.
