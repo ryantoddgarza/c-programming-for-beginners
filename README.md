@@ -47,3 +47,4 @@ File Input and Output
 
 18. [n-lines](n-lines)
 19. [to-uppercase](to-uppercase)
+20. [reverse-file-contents](reverse-file-contents)
