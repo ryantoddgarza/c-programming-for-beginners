@@ -2,6 +2,20 @@
 
 [C Programming For Beginners - Master the C Language course on Udemy](https://www.udemy.com/course/c-programming-for-beginners-/)
 
+## Course Outcomes
+
+Ability to...
+
+- understand fundamental aspects of the C Programming Language
+- create basic C programs
+- write C code that is...
+    - modular
+    - orthogonal
+    - readable
+- find and fix errors
+    - understand compiler messages
+    - use a debugger
+
 ## Challenges
 
 1. [print-name](print-name)
