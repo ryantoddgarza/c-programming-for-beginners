@@ -45,20 +45,25 @@ Functions
 10. [writing-functions](writing-functions)
 11. [tic-tac-toe](tic-tac-toe)
 
+Character Strings
+
+12. [understanding-char-arrays](understanding-char-arrays)
+13. [common-string-functions](common-string-functions)
+
 Pointers
 
-12. [pointer-basics](pointer-basics)
-13. [pointer-arithmetic](pointer-arithmetic)
-14. [pass-by-reference](pass-by-reference)
-15. [dynamic-memory-allocation](dynamic-memory-allocation)
+14. [pointer-basics](pointer-basics)
+15. [pointer-arithmetic](pointer-arithmetic)
+16. [pass-by-reference](pass-by-reference)
+17. [dynamic-memory-allocation](dynamic-memory-allocation)
 
 Structures
 
-16. [basic-structure](basic-structure)
-17. [structure-pointers](structure-pointers)
+18. [basic-structure](basic-structure)
+19. [structure-pointers](structure-pointers)
 
 File Input and Output
 
-18. [n-lines](n-lines)
-19. [to-uppercase](to-uppercase)
-20. [reverse-file-contents](reverse-file-contents)
+20. [n-lines](n-lines)
+21. [to-uppercase](to-uppercase)
+22. [reverse-file-contents](reverse-file-contents)
